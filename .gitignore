@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage and test output
+coverage/
+*.lcov
+
+# React-specific
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional: Cache
+.cache/
+.next/
+out/
+
+# MongoDB dump
+dump/
